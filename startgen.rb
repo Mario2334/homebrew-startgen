@@ -6,7 +6,7 @@ class Startgen < Formula
   version "0.1.1-alpha"
 
   def install
-    bin.install "darwin/startgen"
+    bin.install "startgen"
   end
 
   test do
